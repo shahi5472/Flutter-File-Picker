@@ -1,4 +1,4 @@
-# flutter_file_delete_demo
+# Flutter File Delete Demo
 
 A new Flutter application.
 
